@@ -10,3 +10,5 @@ In the code we've already `import requests` module -> To get the *webpage **OR**
 Then We use <b>`parsing`<b> to convert the `bytecode` to code that is<br/> readable and we also can treat with it.
 
 </p>
+
+<p>Min: 46:20</p>
